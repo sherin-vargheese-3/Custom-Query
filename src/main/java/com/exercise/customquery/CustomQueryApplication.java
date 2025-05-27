@@ -1,4 +1,4 @@
-package com.exercise.CustomQuery;
+package com.exercise.customquery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,7 @@
-package com.exercise.CustomQuery.service;
+package com.exercise.customquery.service;
 
-import com.exercise.CustomQuery.contract.OrderDTO;
-import com.exercise.CustomQuery.repository.OrderRepository;
+import com.exercise.customquery.contract.OrderDTO;
+import com.exercise.customquery.repository.OrderRepository;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;

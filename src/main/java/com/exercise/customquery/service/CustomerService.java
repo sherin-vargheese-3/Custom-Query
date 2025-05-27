@@ -1,11 +1,11 @@
-package com.exercise.CustomQuery.service;
+package com.exercise.customquery.service;
 
-import com.exercise.CustomQuery.contract.CustomerDTO;
-import com.exercise.CustomQuery.contract.CustomerSummary;
-import com.exercise.CustomQuery.model.Customer;
-import com.exercise.CustomQuery.model.Order;
-import com.exercise.CustomQuery.model.OrderItem;
-import com.exercise.CustomQuery.repository.CustomerRepository;
+import com.exercise.customquery.contract.CustomerDTO;
+import com.exercise.customquery.contract.CustomerSummary;
+import com.exercise.customquery.model.Customer;
+import com.exercise.customquery.model.Order;
+import com.exercise.customquery.model.OrderItem;
+import com.exercise.customquery.repository.CustomerRepository;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 

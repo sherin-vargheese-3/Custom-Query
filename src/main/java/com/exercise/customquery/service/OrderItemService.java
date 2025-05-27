@@ -1,7 +1,7 @@
-package com.exercise.CustomQuery.service;
+package com.exercise.customquery.service;
 
-import com.exercise.CustomQuery.contract.MostPopularItem;
-import com.exercise.CustomQuery.repository.OrderItemRepository;
+import com.exercise.customquery.contract.MostPopularItem;
+import com.exercise.customquery.repository.OrderItemRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

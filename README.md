@@ -4,4 +4,4 @@
 Implement a Spring Boot application to work with custom query.
 
 ## Project structure
-*   **[com.exercise.CustomQuery](src/main/java/com/exercise/CustomQuery)**: The main application package.
+*   **[com.exercise.customquery](src/main/java/com/exercise/customquery)**: The main application package.

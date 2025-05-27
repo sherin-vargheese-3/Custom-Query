@@ -1,7 +1,7 @@
-package com.exercise.CustomQuery.controller;
+package com.exercise.customquery.controller;
 
-import com.exercise.CustomQuery.model.Customer;
-import com.exercise.CustomQuery.service.CustomerService;
+import com.exercise.customquery.model.Customer;
+import com.exercise.customquery.service.CustomerService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

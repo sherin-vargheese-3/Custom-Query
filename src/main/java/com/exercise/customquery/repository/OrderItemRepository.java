@@ -1,7 +1,7 @@
-package com.exercise.CustomQuery.repository;
+package com.exercise.customquery.repository;
 
-import com.exercise.CustomQuery.contract.MostPopularItem;
-import com.exercise.CustomQuery.model.OrderItem;
+import com.exercise.customquery.contract.MostPopularItem;
+import com.exercise.customquery.model.OrderItem;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

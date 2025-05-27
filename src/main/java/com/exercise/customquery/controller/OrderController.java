@@ -1,6 +1,6 @@
-package com.exercise.CustomQuery.controller;
+package com.exercise.customquery.controller;
 
-import com.exercise.CustomQuery.service.OrderService;
+import com.exercise.customquery.service.OrderService;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.exercise.CustomQuery.model;
+package com.exercise.customquery.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

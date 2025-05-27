@@ -1,4 +1,4 @@
-package com.exercise.CustomQuery.contract;
+package com.exercise.customquery.contract;
 
 public interface MostPopularItem {
     String getProductName();

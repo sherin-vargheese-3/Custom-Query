@@ -1,4 +1,4 @@
-package com.exercise.CustomQuery;
+package com.exercise.customquery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

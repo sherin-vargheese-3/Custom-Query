@@ -1,7 +1,7 @@
-package com.exercise.CustomQuery.repository;
+package com.exercise.customquery.repository;
 
-import com.exercise.CustomQuery.contract.CustomerSummary;
-import com.exercise.CustomQuery.model.Customer;
+import com.exercise.customquery.contract.CustomerSummary;
+import com.exercise.customquery.model.Customer;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

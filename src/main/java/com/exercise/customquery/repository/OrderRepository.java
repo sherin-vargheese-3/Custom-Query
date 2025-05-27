@@ -1,6 +1,6 @@
-package com.exercise.CustomQuery.repository;
+package com.exercise.customquery.repository;
 
-import com.exercise.CustomQuery.model.Order;
+import com.exercise.customquery.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
